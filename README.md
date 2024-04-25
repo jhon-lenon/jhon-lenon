@@ -1,4 +1,4 @@
-## Oi, eu sou o Jhon Lenon 😄
+# Oi, eu sou o Jhon Lenon 😄
 
 
 - 🔭 Atualmente procurando emprego na área de Desenvolvedor Jr. em Java
@@ -21,12 +21,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhon_Lenon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhon-lenon-dev/)](https://www.linkedin.com/in/jhon-lenon-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-jhonlenondslb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonlenondslb@gmail.com)](mailto:jhonlenondslb@gmail.com)
-   
-<div> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 
 
